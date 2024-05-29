@@ -5,3 +5,7 @@ public static void main(String args[])
 void somefunction(){
 	System.out.println("This is some function")
 }
+void anotherfunction(){
+        System.out.println("This is another function")
+}
+
