@@ -8,4 +8,8 @@ void somefunction(){
 void anotherfunction(){
         System.out.println("This is another function")
 }
+void functionone(){
+        System.out.println("This is functionone")
+}
+
 
