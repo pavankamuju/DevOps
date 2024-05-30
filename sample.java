@@ -20,4 +20,7 @@ void functionthree_br2(){
 void functionfour_newbr(){
         System.out.println("This is function four in newbr")
 }
+void functionfive_newbr(){
+        System.out.println("This is function five in newbr")
+}
 
